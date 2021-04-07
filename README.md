@@ -18,8 +18,8 @@ Steps:
 modify index.html in the app directory
 
 ## 3: Build Container
-
-`docker build . -t myhello`
+change into the directory:
+`cd docker-hello`
 
 ## 4: Run Container
 
